@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ganesh
-#### Software Engineer @ OptumInsight India
+#### Software Development Engineer @ Amazon
 
 Skills: Java | Python | HTML | CSS | JavaScript | AWS
 
